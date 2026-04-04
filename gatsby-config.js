@@ -2,10 +2,10 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Brittany Chiang',
+    title: 'Farhan Hasin Fahim',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+      'Farhan Hasin Fahim is an ETE student at RUET with a dedicated focus on Telecommunication Systems. Passionate about wireless communication, network infrastructure, and the future of mobile connectivity.',
+    siteUrl: 'https://chilahati.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
   },
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Brittany Chiang',
-        short_name: 'Brittany Chiang',
+        name: 'Farhan Hasin Fahim',
+        short_name: 'Fahim',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
