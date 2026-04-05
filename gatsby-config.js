@@ -2,13 +2,14 @@ const config = require('./src/config');
 const path = require('path');
 
 module.exports = {
-  pathPrefix: "/portfolio-of-fahim", 
-  
+  pathPrefix: '/portfolio-of-fahim',
+
   siteMetadata: {
     title: 'Farhan Hasin Fahim',
-    description: 'Farhan Hasin Fahim is an ETE student at RUET with a dedicated focus on Telecommunication Systems.',
+    description:
+      'Farhan Hasin Fahim is an ETE student at RUET with a dedicated focus on Telecommunication Systems.',
     siteUrl: 'https://mdfhf2020-ui.github.io',
-    image: '/og.png', 
+    image: '/og.png',
     twitterUsername: '@farhanhasin',
   },
   plugins: [
@@ -18,7 +19,6 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sitemap`,
-    `gatsby-plugin-robots-txt`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
