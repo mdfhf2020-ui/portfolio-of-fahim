@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://mdfhf2020-ui.github.io/portfolio-of-fahim/sitemap-index.xml
-Host: https://mdfhf2020-ui.github.io
