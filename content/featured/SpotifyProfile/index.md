@@ -1,15 +1,15 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Voice and Gesture Control Wheelchair'
+cover: './chair.jpg'
+github: 'https://github.com/mdfhf2020-ui/Smart-Wheelchair-with-Voice-Gesture-Control-'
+external: 'https://drive.google.com/file/d/1w89u_owjzQwTPbJn88rIFCP6meqOqjR9/view?pli=1'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Arduino
+  - Python
+  - Bluetooth HC-05
+  - Ultrasonic Sensors
+  - Embedded C
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+An innovative assistive technology designed for individuals with mobility challenges. This project integrates voice recognition and hand gesture control to enable seamless navigation. It features real-time obstacle detection and emergency alerts to ensure user safety and independence.
