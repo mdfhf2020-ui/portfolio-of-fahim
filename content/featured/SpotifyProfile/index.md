@@ -10,6 +10,7 @@ tech:
   - Bluetooth HC-05
   - Ultrasonic Sensors
   - Embedded C
+cta: ''
 ---
 
 An innovative assistive technology designed for individuals with mobility challenges. This project integrates voice recognition and hand gesture control to enable seamless navigation. It features real-time obstacle detection and emergency alerts to ensure user safety and independence.
